@@ -1,0 +1,3 @@
+aiogram
+beautifulsoup4
+playwright
